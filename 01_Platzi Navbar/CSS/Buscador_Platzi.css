@@ -1,0 +1,206 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: #252424
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0rem;
+}
+
+
+
+body {
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px;
+
+
+main {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.logo_platzi{
+    width: 500px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+.main-input{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+
+    input {
+        width: 530px;
+        margin: 0 auto;
+        height: 50px;
+        padding: 15px;
+        font-size: 20px;
+        border: 10px 0 0 5px;
+        border-radius: 125px;
+        background-color: #1a1a1a;
+        color: white;
+        background-image: url('https://static-00.iconduck.com/assets.00/search-icon-256x256-v6gfhlc1.png');
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: 30px;
+    } */
+
+    .main-input-container{
+        box-shadow: 0px 6px 0 #20212447;
+    }
+
+}
+
+    .Liderazgo{
+        width: 100px;
+        height: 125px;
+        margin: 20px;
+        padding: 10px;    
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        background-color: #1a1a1a;
+        border: 3px solid white;
+        font-size: 8px;
+    }
+
+    .Inglés{
+        width: 100px;
+        height: 125px;
+        margin: 20px;
+        padding: 10px;    
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        background-color: #1a1a1a;
+        border: 3px solid white;
+        font-size: 8px;
+    }
+
+    .Marketing{
+        width: 100px;
+        height: 125px;
+        margin: 20px;
+        padding: 10px;    
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        background-color: #1a1a1a;
+        border: 3px solid white;
+        font-size: 8px;
+    }
+
+    .Negocios{
+        width: 100px;
+        height: 125px;
+        margin: 20px;
+        padding: 10px;    
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        background-color: #1a1a1a;
+        border: 3px solid white;
+        font-size: 8px;
+    }
+
+    .Programación{
+        width: 100px;
+        height: 125px;
+        margin: 20px;
+        padding: 10px;    
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        background-color: #1a1a1a;
+        border: 3px solid white;
+        font-size: 7px;
+    }
+
+    .Startups{
+        width: 100px;
+        height: 125px;
+        margin: 20px;
+        padding: 10px;    
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        background-color: #1a1a1a;
+        border: 3px solid white;
+        font-size: 8px;
+    }
+
+    .Contenido_digital{
+        width: 100px;
+        height: 125px;
+        margin: 20px;
+        padding: 10px;    
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        background-color: #1a1a1a;
+        border: 3px solid white;
+        font-size: 8px;
+    }
+
+    .Diseño{
+        width: 100px;
+        height: 125px;
+        margin: 20px;
+        padding: 10px;    
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        background-color: #1a1a1a;
+        border: 3px solid white;
+        font-size: 8px;
+    }
+
+footer{
+    width: 100%;
+    height: 125px;
+    position: absolute;
+    bottom: 0;
+    padding: 5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    background-color: #1a1a1a;
+    border-top: 1px solid white;
+    
+
+}
+
+
+}
